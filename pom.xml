@@ -194,7 +194,7 @@
         <version.redshift>1.2.10.1009</version.redshift>
         <version.sap>2.6.30</version.sap>
         <version.singlestore>1.1.4</version.singlestore>
-        <version.slf4j>1.7.30</version.slf4j>
+        <version.slf4j>1.7.36</version.slf4j>
         <version.snowflake>3.13.30</version.snowflake>
         <version.spanner>2.11.1</version.spanner>
         <version.springjdbc>5.3.19</version.springjdbc>
