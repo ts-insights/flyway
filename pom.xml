@@ -187,7 +187,7 @@
         <version.msal4j>1.13.8</version.msal4j>
         <version.mssql>12.2.0</version.mssql>
         <version.mssql-jdbc>${version.mssql}.jre8</version.mssql-jdbc>
-        <version.oracle>19.6.0.0</version.oracle>
+        <version.oracle>19.21.0.0</version.oracle>
         <version.osgi>4.3.1</version.osgi>
         <version.p6spy>3.9.1</version.p6spy>
         <version.postgresql>42.4.3</version.postgresql>
