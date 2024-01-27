@@ -156,7 +156,7 @@
         <version.commonslogging>1.2</version.commonslogging>
         <version.commonstext>1.10.0</version.commonstext>
         <version.db2>11.5.0.0</version.db2>
-        <version.derby>10.16.1.1</version.derby>
+        <version.derby>10.17.1.0</version.derby>
         <version.equinox>3.15.200</version.equinox>
         <version.equinoxcommon>3.10.600</version.equinoxcommon>
         <version.gcs>2.22.5</version.gcs>
